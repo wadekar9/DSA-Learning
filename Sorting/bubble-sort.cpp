@@ -25,3 +25,7 @@ int main()
     }
     return 0;
 }
+
+// Time Complexity
+// Worst & Average Case : O(n2);
+// Best : O(n) if array is sorted we can add extra flag to check swap happend or not.
