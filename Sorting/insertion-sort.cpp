@@ -22,3 +22,8 @@ int main()
     }
     return 0;
 }
+
+// Time Complexity :
+//     Worst case : O(n2)
+//     Avg case : O(n2)
+//     Best case : O(n) (if array is already sorted.)
